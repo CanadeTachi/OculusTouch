@@ -1,0 +1,7 @@
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\bin\Debug\pokemonchiki.exe.config
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\bin\Debug\pokemonchiki.exe
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\bin\Debug\pokemonchiki.pdb
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\obj\Debug\pokemonchiki.csproj.AssemblyReference.cache
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\obj\Debug\pokemonchiki.csproj.CoreCompileInputs.cache
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\obj\Debug\pokemonchiki.exe
+C:\Users\Kanade\source\repos\pokemonchiki\pokemonchiki\obj\Debug\pokemonchiki.pdb
